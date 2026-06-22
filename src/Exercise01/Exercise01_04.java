@@ -1,3 +1,4 @@
+package Exercise01;
 public class Exercise01_04 {
     public static void main(String[] args) {
         int number;
